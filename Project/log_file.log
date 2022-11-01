@@ -1,0 +1,173 @@
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:converting json file to csv
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Implementing regularization techniques to improve the performance
+INFO:root:REgression evaluation metrics
+INFO:root:Implemeting Linear Regression Model
+INFO:root:Implemeting support vector regession model
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Implemeting logistic regession model
+INFO:root:Hyper parameter tuning
+INFO:root:Implemeting svm kernals to get good accuracy
+INFO:root:classification evaluation metrics
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Implemeting logistic regession model
+INFO:root:Hyper parameter tuning
+INFO:root:Implemeting svm kernals to get good accuracy
+INFO:root:classification evaluation metrics
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Implemeting logistic regession model
+INFO:root:Hyper parameter tuning
+INFO:root:Implemeting svm kernals to get good accuracy
+INFO:root:classification evaluation metrics
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Implemeting logistic regession model
+INFO:root:Hyper parameter tuning
+INFO:root:Implemeting svm kernals to get good accuracy
+INFO:root:classification evaluation metrics
+INFO:root:Loading excel or csv file
+INFO:root:checking for null values and imputing with Most-Frequent value
+INFO:root:Performing data analysis
+INFO:root:Outlier detection
+INFO:root:Pickling
+INFO:root:Standardizing the data by applying standard scalar
+INFO:root:splitting data to train and test data
+INFO:root:Loading imputed data to Mongodb
+INFO:root:Fetching data from Mongodb
+INFO:root:Encoding using label encoder
+INFO:root:Implemeting logistic regession model
+INFO:root:Hyper parameter tuning
+INFO:root:Implemeting svm kernals to get good accuracy
+INFO:root:classification evaluation metrics
